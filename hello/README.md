@@ -1,10 +1,10 @@
 # The goold old Hello World
 
-1) run
+1) run  
 go run .
 
-2) build
+2) build  
 go build . (will create "hello" binary)
 
-3) clean
-4) go clean .
+3) clean  
+go clean .
